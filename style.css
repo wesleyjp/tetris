@@ -1,3 +1,10 @@
 body {
+    text-align: center;
     background-color: rgb(35, 9, 77);
+}
+
+#mainCanvas {
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
 }
